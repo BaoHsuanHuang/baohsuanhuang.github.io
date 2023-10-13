@@ -28,6 +28,22 @@
     white-space: nowrap;
 }
 
+.right {
+    float: right !important
+}
+
+.padding {
+    padding:8px 16px !important;
+}
+
+.hide-small {
+    display: none !important;
+}
+
+.text-wide {
+    letter-spacing:4px
+}
+
 .color-white {
     color: #000 !important;
     background-color:#fff !important
